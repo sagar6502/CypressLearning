@@ -1,0 +1,10 @@
+
+//syntax of test suite/test cases
+describe('suite name', () => 
+{
+
+  it('Does not do much!', () => {
+    expect(true).to.equal(true)
+  })
+  
+})

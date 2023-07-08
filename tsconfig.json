@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      // your compiler options...
+    },
+    "files": [
+      // list your TypeScript files here
+      "cypress/e2e/MyFirstTest.cy.ts"
+      // ...
+    ]
+  }
+  
